@@ -1,0 +1,38 @@
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\bin\Debug\AT1.6.exe.config
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\bin\Debug\AT1.6.exe
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\bin\Debug\AT1.6.pdb
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1.6.csprojAssemblyReference.cache
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1._6.Form1.resources
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1._6.Properties.Resources.resources
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.GenerateResource.cache
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.CoreCompileInputs.cache
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1.6.exe
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1.6.pdb
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\bin\Debug\BasicMath.dll
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\bin\Debug\BasicMath.pdb
+E:\Coding\github\Project\CShap\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.CopyComplete
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.exe.config
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.exe
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.pdb
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\bin\Debug\BasicMath.pdb
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csprojAssemblyReference.cache
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1._6.Form1.resources
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1._6.Properties.Resources.resources
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.GenerateResource.cache
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.CoreCompileInputs.cache
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.CopyComplete
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.exe
+C:\Users\LocalUser\Desktop\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.pdb
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1._6.Form1.resources
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1._6.Properties.Resources.resources
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.GenerateResource.cache
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.CoreCompileInputs.cache
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.exe
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.pdb
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.exe.config
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.exe
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.pdb
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\BasicMath.dll
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\BasicMath.pdb
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.CopyComplete
+D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csprojAssemblyReference.cache
