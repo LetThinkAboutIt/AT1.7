@@ -36,3 +36,15 @@ D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III
 D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\BasicMath.pdb
 D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.CopyComplete
 D:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csprojAssemblyReference.cache
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.exe.config
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.exe
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.pdb
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csprojResolveAssemblyReference.cache
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1._6.CalculatorWindow.resources
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1._6.Properties.Resources.resources
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\obj\Debug\AT1.6.csproj.GenerateResource.Cache
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.exe
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\AT1.6.pdb
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\Algebraic.pdb
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\Arithmetic.pdb
+E:\Documents\Learning Contents\Tafe\Diploma\Software development\Programming III\Assessments\Portfolio\AT 1.6\AT1.6\AT1.6\bin\Debug\Trigonometric.pdb
